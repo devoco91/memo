@@ -1,0 +1,15 @@
+.alls{
+    background-image:linear-gradient(rgba(252,252,255,.72),rgba(255,254,255,.73)), url('../images/logo.png');
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+[class*='col']{
+    font-weight: bold !important;
+}
+
+
+    
